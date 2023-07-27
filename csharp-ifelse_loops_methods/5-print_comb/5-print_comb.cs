@@ -15,7 +15,7 @@ namespace _2_print_alphabet
                 }
                 Console.Write("{0}{1}, ", j, i % 10);
             }
-            Console.Write("99");
+            Console.WriteLine("99");
         }
     }
 }
