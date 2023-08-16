@@ -13,7 +13,7 @@ class List
                 Console.WriteLine(myList[i]);
             return i;
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return i;
         }
