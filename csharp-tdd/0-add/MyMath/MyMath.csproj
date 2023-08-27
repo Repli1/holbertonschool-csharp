@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <DocumentationFile>bin\$(Configuration)\netstandard2.0\$(AssemblyName).xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>
