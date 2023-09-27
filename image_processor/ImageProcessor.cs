@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Drawing;
+using System.Drawing.Common;
 
 public class ImageProcessor
 {
@@ -7,9 +7,9 @@ public class ImageProcessor
     {
         foreach (var filename in filenames)
         {
-            using (var originalImage = new System.Drawing.Bitmap(filename))
+            using (var originalImage = new Bitmap(filename))
             {
-                using (var invertedImage = new System.Drawing.Bitmap(originalImage.Width, originalImage.Height))
+                using (var invertedImage = new Bitmap(originalImage.Width, originalImage.Height))
                 {
                     for (int x = 0; x < originalImage.Width; x++)
                     {
