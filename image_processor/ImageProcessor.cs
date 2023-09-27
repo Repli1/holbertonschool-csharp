@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Drawing.Common;
+using System.Drawing;
 
 public class ImageProcessor
 {
