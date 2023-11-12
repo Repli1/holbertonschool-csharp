@@ -1,0 +1,11 @@
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.deps.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.runtimeconfig.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.runtimeconfig.dev.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\bin\Debug\netcoreapp2.1\0-queue.pdb
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.pdb
