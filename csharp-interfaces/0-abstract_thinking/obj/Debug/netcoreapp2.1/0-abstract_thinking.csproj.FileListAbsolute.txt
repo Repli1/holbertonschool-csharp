@@ -1,0 +1,11 @@
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.deps.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.runtimeconfig.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.runtimeconfig.dev.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\netcoreapp2.1\0-abstract_thinking.pdb
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\netcoreapp2.1\0-abstract_thinking.pdb
