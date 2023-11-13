@@ -1,0 +1,11 @@
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.deps.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.runtimeconfig.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.runtimeconfig.dev.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\bin\Debug\netcoreapp2.1\3-decorations.pdb
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\3-decorations\obj\Debug\netcoreapp2.1\3-decorations.pdb
