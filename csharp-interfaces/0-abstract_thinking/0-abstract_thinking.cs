@@ -1,16 +1,11 @@
-﻿public abstract class Base
-{
-    public string Name { get; set; }
+﻿using System;
 
-    public Base(string name)
-    {
-        Name = name;
-    }
+public abstract class Base
+{
+    public string name { get; set; }
 
     public override string ToString()
     {
-        string typeName = GetType().Name;
-
-        return $"{Name} is a {typeName}";
+        return $"{name} is a {this.GetType().Name}";
     }
 }
