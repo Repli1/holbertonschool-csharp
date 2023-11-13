@@ -1,0 +1,11 @@
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.deps.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.dev.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.pdb
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.pdb
