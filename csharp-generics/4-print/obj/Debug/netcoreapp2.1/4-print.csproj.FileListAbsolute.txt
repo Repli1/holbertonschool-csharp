@@ -1,0 +1,11 @@
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.deps.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.runtimeconfig.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.runtimeconfig.dev.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\bin\Debug\netcoreapp2.1\4-print.pdb
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-generics\4-print\obj\Debug\netcoreapp2.1\4-print.pdb
