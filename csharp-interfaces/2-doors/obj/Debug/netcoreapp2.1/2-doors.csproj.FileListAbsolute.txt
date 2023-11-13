@@ -1,0 +1,11 @@
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.deps.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.dev.json
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.pdb
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.dll
+C:\Users\Maicol\Desktop\Proyectos Holb\holbertonschool-csharp\csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.pdb
