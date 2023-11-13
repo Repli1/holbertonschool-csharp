@@ -90,27 +90,35 @@ class Queue<T>
     }
     public string Concatenate()
     {
-        if (head == null)
+    if (head == null)
+    {
+        Console.WriteLine("Queue is empty");
+        return null;
+    }
+
+    if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
+    {
+        Console.WriteLine("Concatenate is for a queue of Strings or Chars only.");
+        return null;
+    }
+
+    string result = "";
+    Node current = head;
+
+    while (current != null)
+    {
+        if (typeof(T) == typeof(string))
         {
-            Console.WriteLine("Queue is empty");
-            return null;
+            if (!string.IsNullOrEmpty(result))
+            {
+                result += " ";
+            }
         }
 
-        if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
-        {
-            Console.WriteLine("Concatenate() is for a queue of Strings or Chars only.");
-            return null;
-        }
+        result += current.Value;
+        current = current.Next;
+    }
 
-        string result = "";
-        Node current = head;
-
-        while (current != null)
-        {
-            result += current.Value;
-            current = current.Next;
-        }
-
-        return result;
+    return result;
     }
 }
